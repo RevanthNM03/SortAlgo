@@ -2,7 +2,7 @@
 
 **SortAlgo** is a web application designed to help the visitors to better understand sorting algorithms by displaying and visualizing them.
 
-> The app is already deployed in github pages so you can play around with [SortAlgo](https://github.com/RevanthNM03/SortAlgo)
+> The app is already deployed in github pages so you can play around with [SortAlgo](https://revanthnm03.github.io/SortAlgo/)
 
 ![SortAlgo](https://i.imgur.com/td3MH4F.png)
 
