@@ -245,7 +245,7 @@ class App extends Component {
               <img src={require("./image/favicon.png").default} alt="logo" />
               <div className="name">
                 <p>Sort Algo</p>
-                <p style={{ fontSize: "28px" }}>Visulaizer</p>
+                <p style={{ fontSize: "28px" }}>Visualizer</p>
               </div>
             </div>
             <div
