@@ -1,0 +1,13 @@
+.final_dark {
+  --primary-back: #23303b;
+  --primary-color: #ececec;
+  --secondary-back: #0e121a;
+  --identity-color: #318ffa;
+  --upper-shadow: rgba(185, 185, 185, 0.08);
+  --lower-shadow: rgba(0, 0, 0, 0.5);
+  --snippet-back: #3d3d3d;
+  --fun-kw: #00ffff;
+  --fun-tlt: rgb(199, 146, 0);
+  --fun-sec-kw: rgb(0, 183, 255);
+  --fun-num: blueviolet;
+}
