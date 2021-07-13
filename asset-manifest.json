@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SortAlgo/static/css/main.aa744c55.chunk.css",
+    "main.js": "/SortAlgo/static/js/main.c3610a91.chunk.js",
+    "main.js.map": "/SortAlgo/static/js/main.c3610a91.chunk.js.map",
+    "runtime-main.js": "/SortAlgo/static/js/runtime-main.262a294d.js",
+    "runtime-main.js.map": "/SortAlgo/static/js/runtime-main.262a294d.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/SortAlgo/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.13ebcf20.chunk.js": "/SortAlgo/static/js/2.13ebcf20.chunk.js",
+    "static/js/2.13ebcf20.chunk.js.map": "/SortAlgo/static/js/2.13ebcf20.chunk.js.map",
+    "index.html": "/SortAlgo/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/SortAlgo/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.aa744c55.chunk.css.map": "/SortAlgo/static/css/main.aa744c55.chunk.css.map",
+    "static/js/2.13ebcf20.chunk.js.LICENSE.txt": "/SortAlgo/static/js/2.13ebcf20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.262a294d.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.13ebcf20.chunk.js",
+    "static/css/main.aa744c55.chunk.css",
+    "static/js/main.c3610a91.chunk.js"
+  ]
+}
