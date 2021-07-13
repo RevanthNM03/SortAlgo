@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SortAlgo/static/css/main.aa744c55.chunk.css",
-    "main.js": "/SortAlgo/static/js/main.55a87db6.chunk.js",
-    "main.js.map": "/SortAlgo/static/js/main.55a87db6.chunk.js.map",
+    "main.js": "/SortAlgo/static/js/main.254a51c5.chunk.js",
+    "main.js.map": "/SortAlgo/static/js/main.254a51c5.chunk.js.map",
     "runtime-main.js": "/SortAlgo/static/js/runtime-main.5b2da8db.js",
     "runtime-main.js.map": "/SortAlgo/static/js/runtime-main.5b2da8db.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/SortAlgo/static/css/2.4c97ca4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.35c18ba9.chunk.js",
     "static/css/main.aa744c55.chunk.css",
-    "static/js/main.55a87db6.chunk.js"
+    "static/js/main.254a51c5.chunk.js"
   ]
 }
