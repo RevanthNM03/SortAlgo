@@ -17,9 +17,11 @@ In the website you can find information of basic sorting algorithms, their perfo
 - Merge Sort
 
 There is a Dark mode for the website too -
+
 ![SortAlgo-Dark](https://i.imgur.com/ur0aeQ1.png)
 
 There is also a full page button for those who just like to see animation how things work
+
 ![SortAlgo-fullpage](https://i.imgur.com/58zTjx0.png)
 
 ---
